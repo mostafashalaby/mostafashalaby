@@ -5,11 +5,10 @@
 <div>
     <img align="right" alt="Coding" width="400" src="me.jpg" style="float: right; margin-left: 20px;" />
     
-    <!-- My Info Section -->
-    - 🔭 I’m currently working on **my last semester at UVic :D (Graduating December '24)** <br>
-    - 🌱 I’m currently learning **scikit-learn, pandas, and seaborn for machine learning** <br>
-    - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shalaby-)** <br>
-    - ⚡ Fun fact **I lead Victoria's Calisthenics Community 🤸🏻‍♂️** <br>
+    - 🔭 I’m currently working on **my last semester at UVic :D (Graduating December '24)**
+    - 🌱 I’m currently learning **scikit-learn, pandas, and seaborn for machine learning**
+    - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shalaby-)**
+    - ⚡ Fun fact **I lead Victoria's Calisthenics Community 🤸🏻‍♂️**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
