@@ -1,5 +1,7 @@
 <h1 align="center"> Mostafa Shalaby </h1>
 
+<h3 align="left">Welcome to my Page ('-')7</h3>
+
 <img align="right" alt="Coding" width="400" src="me.jpg">
 
 - 🔭 I’m currently working on **my last semester at UVic :D (Graduating December '24)**
@@ -18,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafashalaby&show_icons=true&locale=en&layout=compact" alt="mostafashalaby" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafashalaby&" alt="mostafashalaby" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafashalaby&" alt="mostafashalaby" /></p>
