@@ -2,13 +2,18 @@
 
 <h3 align="left">Welcome to my Page ('-')7</h3>
 
-<div>
-    <img align="right" alt="Coding" width="400" src="me.jpg" style="float: right; margin-left: 20px;" />
-    
-    - 🔭 I’m currently working on **my last semester at UVic :D (Graduating December '24)**
-    - 🌱 I’m currently learning **scikit-learn, pandas, and seaborn for machine learning**
-    - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shalaby-)**
-    - ⚡ Fun fact **I lead Victoria's Calisthenics Community 🤸🏻‍♂️**
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <ul>
+            <li>🔭 I’m currently working on <b>my last semester at UVic :D (Graduating December '24)</b></li>
+            <li>🌱 I’m currently learning <b>scikit-learn, pandas, and seaborn for machine learning</b></li>
+            <li>📫 How to reach me: <b><a href="https://www.linkedin.com/in/shalaby-">LinkedIn</a></b></li>
+            <li>⚡ Fun fact: <b>I lead Victoria's Calisthenics Community 🤸🏻‍♂️</b></li>
+        </ul>
+    </div>
+    <div>
+        <img align="right" alt="Coding" width="400" src="me.jpg" style="margin-left: 20px;" />
+    </div>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
