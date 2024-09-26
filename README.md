@@ -4,6 +4,7 @@
 </div>
 
 <h3 align="left">Welcome to my Page ('-')7</h3>
+
 - 🔭 I’m currently working on **my last semester at UVic :D (Graduating December '24)**
 
 - 🌱 I’m currently learning **scikit-learn, pandas, and seaborn for machine learning**
